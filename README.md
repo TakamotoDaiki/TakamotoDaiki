@@ -1,5 +1,5 @@
-### Hi there 👋
-# プロフィール
+## プロフィール
+・名前：高本大輝
 
 <!--
 **TakamotoDaiki/TakamotoDaiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
